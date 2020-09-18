@@ -7,4 +7,4 @@ Before Running do this!
 
 2. Do the same for your organization ID. You can hard that as well or just use the Read-Host
 
-3. You will want to change '*SW*' on line 12 if your Switches contain a different string. This is just what worked best for me. I will be changing this to grab switch models to make the script a bit more robust.
+3. You will need to download and . source Convert-OutputForCsv to same directory that your are running the script from.
