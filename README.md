@@ -1,2 +1,10 @@
 # Meraki_Switch_Ports_Access_Policys
 A PowerShell Program that grabs all Meraki switch ports settings in a given organization
+
+Before Running do this!
+
+1. Make sure you have your Meraki API key on hand. You can hard code the key if you paste into the $apikey variable instead of using Read-Host or just use Read-Host and paste the key in the terminal when prompted
+
+2. Do the same for your organization ID. You can hard that as well or just use the Read-Host
+
+3. You will want to change '*SW*' on line 12 if your Switches contain a different string. This is just what worked best for me. I will be changing this to grab switch models to make the script a bit more robust.
