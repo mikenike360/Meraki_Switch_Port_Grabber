@@ -1,5 +1,5 @@
 # Meraki_Switch_Port_Grabber
-A PowerShell Program that grabs all Meraki switch ports settings in a given organization
+A PowerShell Program that grabs all Meraki switch ports settings in a given organization and dumps all output to a CSV located at C:\scripts\
 
 Before Running do this!
 
