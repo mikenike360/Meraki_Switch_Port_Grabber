@@ -7,4 +7,4 @@ Before Running do this!
 
 2. Do the same for your organization ID. You can hard that as well or just use the Read-Host
 
-3. You will need to download and . source Convert-OutputForCsv to same directory that your are running the script from.
+3. You will need to download and . source Convert-OutputForCsv to same directory that your are running the script from. You can download the script here: https://gallery.technet.microsoft.com/scriptcenter/Convert-OutoutForCSV-6e552fc6
